@@ -1,2 +1,2 @@
 # Timer
-Simple timer (pure JS)
+Simple timer (Vanilla JS)
